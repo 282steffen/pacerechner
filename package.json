@@ -19,7 +19,7 @@
     "ramda": "^0.25.0",
     "virtual-dom": "^2.1.1",
     "webpack": "^4.38.0",
-    "webpack-cli": "^3.3.6",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.7.2"
   }
 }
